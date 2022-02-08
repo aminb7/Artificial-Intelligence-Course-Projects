@@ -1,0 +1,21 @@
+[submodule "CA0"]
+	path = CA0
+	url = https://github.com/aminb7/Click-Prediction.git
+[submodule "CA1"]
+	path = CA1
+	url = https://github.com/aminb7/Snake-Game-Search-Algorithms.git
+[submodule "CA2"]
+	path = CA2
+	url = https://github.com/aminb7/Logic-Gates-Genetic-Algorithm.git
+[submodule "CA3"]
+	path = CA3
+	url = https://github.com/aminb7/Digikala-Comment-Classification-Naive-Bayes.git
+[submodule "CA4"]
+	path = CA4
+	url = https://github.com/aminb7/House-Price-Prediction.git
+[submodule "CA5"]
+	path = CA5
+	url = https://github.com/aminb7/Feedforward-Neural-Network.git
+[submodule "CA6"]
+	path = CA6
+	url = https://github.com/aminb7/COVID19-Penumonia-Diagnosis-Neural-Networks.git
